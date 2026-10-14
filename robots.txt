@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-954b859430.jiawangrc.cn/sitemap.xml
